@@ -1,6 +1,8 @@
-alpha 브랜치에
+gamma 브랜치에
 
 작업을 시작합니다
 
 
 alpha에서 gamma로
+
+gamma에서 beta로 다 보냅니다
